@@ -2,11 +2,12 @@ project:
   type: website
 
 website:
-  title: "biostat_consultation"
+  title: "Biostatistics Consultation"
   navbar:
     left:
       - href: index.qmd
         text: Home
+      - experts.qmd
       - about.qmd
 
 format:

@@ -1,11 +1,46 @@
 ---
-title: "biostat_consultation"
+title: "Biostatistics Consultation"
 ---
 
-This is a Quarto website.
+![](image/logo-fp.png)
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+The Department of Community Medicine, [Universiti Sultan Zainal Abidin (UniSZA)](https://www.unisza.edu.my/) are offering a free research methodology and statistical consultation service.
 
-```{r}
-1 + 1
-```
+## Terms and Conditions
+
+We provide general advice on research methodology and medical/biostatistics. At present, this consultation service is available only to students and faculty members of the Faculty of Medicine, UniSZA.
+
+-   Each consultation session is limited to a maximum of 45 minutes.
+-   If you require more than two sessions, please consider adding the consultant as a co-researcher.
+-   The selection of a consultant depends on their area of expertise and availability at the time of the request.
+
+To request a consultation, please fill in the Google Form. Our consultant will contact you personally to confirm the appointment date.
+
+## Requirements for Booking a Consultation
+
+To book a consultation session, you must have a brief research proposal that includes:
+
+-    Title
+-    Objective
+-    Study background
+-    Proposed methods (optional)
+
+## Mode of Consultation
+
+Consultations can be conducted face-to-face or through online meetings. The face-to-face meeting will be held in the [Faculty of Medicine, UniSZA](https://maps.app.goo.gl/C5WXT2HbS6gU6dSM7) unless specified otherwise by the consultant.
+
+## Our Services
+
+We offer guidance in:
+
+-   Proposal and protocol preparation
+-   Dissertation and thesis preparation
+-   Study design - randomized controlled trials, observational and validation studies
+-   Sample size determination
+-   Research ethics
+-   Statistical analysis and reporting
+-   Manuscript consultation (methodological and statistical content)
+
+## Book an appointment
+
+Please fill in the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdyRgbXAwyBvZXY4I0cAMAhPaGCdTjKZ3ZwRwbQG0IQPYpgJg/viewform?usp=dialog) to book an appointment for a consultation.
