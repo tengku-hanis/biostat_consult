@@ -1,5 +1,5 @@
 ---
-title: "Biostatistics Consultation"
+title: "Biostatistics Clinic"
 ---
 
 ![](image/logo-fp.png)
@@ -20,10 +20,10 @@ To request a consultation, please fill in the Google Form. Our consultant will c
 
 To book a consultation session, you must have a brief research proposal that includes:
 
--    Title
--    Objective
--    Study background
--    Proposed methods (optional)
+-   Title
+-   Objective
+-   Study background
+-   Proposed methods (optional)
 
 ## Mode of Consultation
 

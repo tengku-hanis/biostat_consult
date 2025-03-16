@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Biostatistic Clinic"
+  title: "Biostatistics Clinic"
   navbar:
     left:
       - href: index.qmd
