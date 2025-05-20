@@ -1,5 +1,5 @@
 ---
-title: "Biostatistics Clinic"
+title: "Research Clinic"
 ---
 
 ![](image/logo-fp.png)
@@ -27,20 +27,19 @@ To book a consultation session, you must have a brief research proposal that inc
 
 ## Mode of Consultation
 
-Consultations can be conducted face-to-face or through online meetings. The face-to-face meeting will be held in the [Faculty of Medicine, UniSZA](https://maps.app.goo.gl/C5WXT2HbS6gU6dSM7) unless specified otherwise by the consultant.
+Consultations can be conducted face-to-face or through online meetings. The face-to-face meeting will be held in the [Faculty of Medicine, UniSZA](https://maps.app.goo.gl/C5WXT2HbS6gU6dSM7), unless specified otherwise by the consultant.
 
 ## Our Services
 
 We offer guidance in:
 
 -   Proposal and protocol preparation
--   Dissertation and thesis preparation
--   Study design - randomized controlled trials, observational and validation studies
+-   Study design and sampling methods
 -   Sample size determination
--   Research ethics
 -   Statistical analysis and reporting
--   Manuscript consultation (methodological and statistical content)
 
 ## Book an appointment
+
+By booking our service, you acknowledge and agree to the terms and conditions outlined above.
 
 Please fill in the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdyRgbXAwyBvZXY4I0cAMAhPaGCdTjKZ3ZwRwbQG0IQPYpgJg/viewform?usp=dialog) to book an appointment for a consultation.
