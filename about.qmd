@@ -2,13 +2,13 @@
 title: "About"
 ---
 
-This initiative is a free service provided by the Department of Community Medicine, Universiti Sultan Zainal Abidin (UniSZA). Our team consists of experienced lecturers specializing in biostatistics, epidemiology, and public health research. We are dedicated to supporting researchers, postgraduate students, and healthcare professionals in designing studies, analysing data, and interpreting statistical results.
+This initiative is a free service provided by the Department of Community Medicine, Universiti Sultan Zainal Abidin (UniSZA). Our team consists of experienced lecturers specialising in biostatistics, epidemiology, and public health research. We are dedicated to supporting researchers, postgraduate students, and healthcare professionals in designing studies, analysing data, and interpreting statistical results.
 
 At present, this consultation service is exclusively available to students and faculty members of the Faculty of Medicine, UniSZA. However, we may expand this service to the public in the future.
 
 ## Book an appointment
 
-Please read the [Terms and Conditions](index.html#terms-and-conditions) before booking an appointment. You can fill in the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdyRgbXAwyBvZXY4I0cAMAhPaGCdTjKZ3ZwRwbQG0IQPYpgJg/viewform?usp=dialog) to book for the appointment.
+Please read the [Terms and Conditions](index.html#terms-and-conditions) before booking an appointment. You can fill in the [Google form](https://forms.gle/iL3A93EhrrRTHBib7) to book an appointment.
 
 ## **Location**
 

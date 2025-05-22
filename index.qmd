@@ -11,8 +11,16 @@ The Department of Community Medicine, [Universiti Sultan Zainal Abidin (UniSZA)]
 We provide general advice on research methodology and medical/biostatistics. At present, this consultation service is available only to students and faculty members of the Faculty of Medicine, UniSZA.
 
 -   Each consultation session is limited to a maximum of 45 minutes.
--   If you require more than two sessions, please consider adding the consultant as a co-researcher.
--   The selection of a consultant depends on their area of expertise and availability at the time of the request.
+-   If you require more than two sessions for the same project, you are encouraged to invite the consultant to join your research team as a co-researcher (subject to the agreement of the consultant and other team members).
+-   The assignment of a consultant is based on their area of expertise and availability at the time of the request.
+-   Please note that direct personal contact with the consultant outside the Research Clinic system is not permitted.
+
+### Blacklisting Policy
+
+-   You may be blacklisted from using the system for **three months** under the following circumstances:
+    -   Failure to attend a scheduled appointment without prior notice.
+    -   Cancellation of more than two appointments without valid reasons.
+-   Blacklisted users will be blocked from submitting new consultation requests via the Google Form during the suspension period.
 
 To request a consultation, please fill in the Google Form. Our consultant will contact you personally to confirm the appointment date.
 
@@ -40,6 +48,6 @@ We offer guidance in:
 
 ## Book an appointment
 
-By booking our service, you acknowledge and agree to the terms and conditions outlined above.
+By booking our service, you acknowledge and agree to the [Terms and Conditions] outlined above.
 
-Please fill in the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdyRgbXAwyBvZXY4I0cAMAhPaGCdTjKZ3ZwRwbQG0IQPYpgJg/viewform?usp=dialog) to book an appointment for a consultation.
+Please fill in the [Google form](https://forms.gle/iL3A93EhrrRTHBib7) to request an appointment for a consultation.

@@ -11,7 +11,7 @@
     "href": "index.html#terms-and-conditions",
     "title": "Research Clinic",
     "section": "Terms and Conditions",
-    "text": "Terms and Conditions\nWe provide general advice on research methodology and medical/biostatistics. At present, this consultation service is available only to students and faculty members of the Faculty of Medicine, UniSZA.\n\nEach consultation session is limited to a maximum of 45 minutes.\nIf you require more than two sessions, please consider adding the consultant as a co-researcher.\nThe selection of a consultant depends on their area of expertise and availability at the time of the request.\n\nTo request a consultation, please fill in the Google Form. Our consultant will contact you personally to confirm the appointment date."
+    "text": "Terms and Conditions\nWe provide general advice on research methodology and medical/biostatistics. At present, this consultation service is available only to students and faculty members of the Faculty of Medicine, UniSZA.\n\nEach consultation session is limited to a maximum of 45 minutes.\nIf you require more than two sessions for the same project, you are encouraged to invite the consultant to join your research team as a co-researcher (subject to the agreement of the consultant and other team members).\nThe assignment of a consultant is based on their area of expertise and availability at the time of the request.\nPlease note that direct personal contact with the consultant outside the Research Clinic system is not permitted.\n\n\nBlacklisting Policy\n\nYou may be blacklisted from using the system for three months under the following circumstances:\n\nFailure to attend a scheduled appointment without prior notice.\nCancellation of more than two appointments without valid reasons.\n\nBlacklisted users will be blocked from submitting new consultation requests via the Google Form during the suspension period.\n\nTo request a consultation, please fill in the Google Form. Our consultant will contact you personally to confirm the appointment date."
   },
   {
     "objectID": "index.html#requirements-for-booking-a-consultation",
@@ -39,21 +39,21 @@
     "href": "index.html#book-an-appointment",
     "title": "Research Clinic",
     "section": "Book an appointment",
-    "text": "Book an appointment\nBy booking our service, you acknowledge and agree to the terms and conditions outlined above.\nPlease fill in the Google form to book an appointment for a consultation."
+    "text": "Book an appointment\nBy booking our service, you acknowledge and agree to the Terms and Conditions outlined above.\nPlease fill in the Google form to request an appointment for a consultation."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "This initiative is a free service provided by the Department of Community Medicine, Universiti Sultan Zainal Abidin (UniSZA). Our team consists of experienced lecturers specializing in biostatistics, epidemiology, and public health research. We are dedicated to supporting researchers, postgraduate students, and healthcare professionals in designing studies, analysing data, and interpreting statistical results.\nAt present, this consultation service is exclusively available to students and faculty members of the Faculty of Medicine, UniSZA. However, we may expand this service to the public in the future."
+    "text": "This initiative is a free service provided by the Department of Community Medicine, Universiti Sultan Zainal Abidin (UniSZA). Our team consists of experienced lecturers specialising in biostatistics, epidemiology, and public health research. We are dedicated to supporting researchers, postgraduate students, and healthcare professionals in designing studies, analysing data, and interpreting statistical results.\nAt present, this consultation service is exclusively available to students and faculty members of the Faculty of Medicine, UniSZA. However, we may expand this service to the public in the future."
   },
   {
     "objectID": "about.html#book-an-appointment",
     "href": "about.html#book-an-appointment",
     "title": "About",
     "section": "Book an appointment",
-    "text": "Book an appointment\nPlease read the Terms and Conditions before booking an appointment. You can fill in the Google form to book for the appointment."
+    "text": "Book an appointment\nPlease read the Terms and Conditions before booking an appointment. You can fill in the Google form to book an appointment."
   },
   {
     "objectID": "about.html#location",
@@ -67,6 +67,6 @@
     "href": "experts.html",
     "title": "Experts",
     "section": "",
-    "text": "Below is the list of our experts:\n\n\n\n\n\n\n\nExperts\nAreas\n\n\n\n\nProf Dr Nyi Nyi Naing @ Syed Hatim Noor\n\n\n\nAssoc Prof Dr Aniza Binti Abd Aziz\n\n\n\nAssoc Prof Dr Intan Suhana Munira binti Mat Azmi\n\n\n\nAssoc Prof Dr San San Oo\n\n\n\nDr Nik Nor Ronaidi Bin Nik Mahdi\n\n\n\nDr Mohd Ihsanuddin Bin Abas\n\n\n\nDr Mazlan Bin Haji Abdullah\n\n\n\nDr Myat Moe Thwe Aung\n\n\n\nDr Megat Mustaqim Bin Megat Iskandar\n\n\n\nDr Yuzana Binti Mohd Yusop\n\n\n\nDr Tengku Muhammad Hanis Bin Tengku Mokhtar\ntengkuhanismokhtar@unisza.edu.my\n\nMedical statistics\nMachine learning"
+    "text": "Below is the list of our experts:\n\n\n\n\n\n\n\nExperts\nAreas\n\n\n\n\nProf Dr Nyi Nyi Naing @ Syed Hatim Noor\n\n\n\nAssoc Prof Dr Aniza Binti Abd Aziz\n\n\n\nAssoc Prof Dr San San Oo\n\n\n\nAssoc Prof Dr Intan Suhana Munira binti Mat Azmi\n\n\n\nAssoc Prof Dr Yuzana Binti Mohd Yusop\n\n\n\nDr Nik Nor Ronaidi Bin Nik Mahdi\n\n\n\nDr Mohd Ihsanuddin Bin Abas\n\n\n\nDr Mazlan Bin Haji Abdullah\n\n\n\nDr Myat Moe Thwe Aung\n\n\n\nDr Megat Mustaqim Bin Megat Iskandar\n\n\n\nDr Tengku Muhammad Hanis Bin Tengku Mokhtar\ntengkuhanismokhtar@unisza.edu.my\n\nMedical statistics\nMachine learning"
   }
 ]
