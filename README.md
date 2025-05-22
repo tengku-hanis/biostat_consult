@@ -1,1 +1,1 @@
-The website is available at https://biostatconsultation.netlify.app/
+The website is available at https://researchclinic.netlify.app/
