@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.57">
+<meta name="generator" content="quarto-1.6.42">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -35,10 +35,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-ddd961a2510921635943dfbbd19534c4.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -117,7 +117,6 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#book-an-appointment" id="toc-book-an-appointment" class="nav-link active" data-scroll-target="#book-an-appointment">Book an appointment</a></li>
-  <li><a href="#location" id="toc-location" class="nav-link" data-scroll-target="#location"><strong>Location</strong></a></li>
   </ul>
 </nav>
     </div>
@@ -147,10 +146,8 @@ ul.task-list li input[type="checkbox"] {
 <p>At present, this consultation service is exclusively available to students and faculty members of the Faculty of Medicine, UniSZA. However, we may expand this service to the public in the future.</p>
 <section id="book-an-appointment" class="level2">
 <h2 class="anchored" data-anchor-id="book-an-appointment">Book an appointment</h2>
-<p>Please read the <a href="index.html#terms-and-conditions">Terms and Conditions</a> before booking an appointment. You can fill in the <a href="https://forms.gle/iL3A93EhrrRTHBib7">Google form</a> to book an appointment.</p>
-</section>
-<section id="location" class="level2">
-<h2 class="anchored" data-anchor-id="location"><strong>Location</strong></h2>
+<p>Please read the <a href="index.html#terms-and-conditions">Terms and Conditions</a> before requesting an appointment. You can request an appointment using the links in <a href="index.html#book">this section</a>.</p>
+<p><strong>Location</strong></p>
 <p>Faculty of Medicine<br>
 Universiti Sultan Zainal Abidin<br>
 Medical Campus<br>
@@ -244,8 +241,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -356,7 +351,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {

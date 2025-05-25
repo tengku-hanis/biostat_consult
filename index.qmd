@@ -46,8 +46,13 @@ We offer guidance in:
 -   Sample size determination
 -   Statistical analysis and reporting
 
-## Book an appointment
+## Book an appointment {#book}
 
 By booking our service, you acknowledge and agree to the [Terms and Conditions] outlined above.
 
-Please fill in the [Google form](https://forms.gle/iL3A93EhrrRTHBib7) to request an appointment for a consultation.
+Please fill in the Google Forms below:
+
+| Title | Description | Link |
+|------------------|----------------------------------------------|--------|
+| Consultation Request – Initial Visit | Complete this form to request an initial consultation for a new project. | [Click to fill in](https://forms.gle/iL3A93EhrrRTHBib7) |
+| Consultation Request – Follow-Up Visit | Complete this form to request a follow-up consultation for an existing project. | [Click to fill in](https://forms.gle/u61h4eKnrBuZHUQJA) |

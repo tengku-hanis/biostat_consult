@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.57">
+<meta name="generator" content="quarto-1.6.42">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -35,10 +35,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-ddd961a2510921635943dfbbd19534c4.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -123,7 +123,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#requirements-for-booking-a-consultation" id="toc-requirements-for-booking-a-consultation" class="nav-link" data-scroll-target="#requirements-for-booking-a-consultation">Requirements for Booking a Consultation</a></li>
   <li><a href="#mode-of-consultation" id="toc-mode-of-consultation" class="nav-link" data-scroll-target="#mode-of-consultation">Mode of Consultation</a></li>
   <li><a href="#our-services" id="toc-our-services" class="nav-link" data-scroll-target="#our-services">Our Services</a></li>
-  <li><a href="#book-an-appointment" id="toc-book-an-appointment" class="nav-link" data-scroll-target="#book-an-appointment">Book an appointment</a></li>
+  <li><a href="#book" id="toc-book" class="nav-link" data-scroll-target="#book">Book an appointment</a></li>
   </ul>
 </nav>
     </div>
@@ -197,10 +197,31 @@ ul.task-list li input[type="checkbox"] {
 <li>Statistical analysis and reporting</li>
 </ul>
 </section>
-<section id="book-an-appointment" class="level2">
-<h2 class="anchored" data-anchor-id="book-an-appointment">Book an appointment</h2>
+<section id="book" class="level2">
+<h2 class="anchored" data-anchor-id="book">Book an appointment</h2>
 <p>By booking our service, you acknowledge and agree to the <a href="#terms-and-conditions">Terms and Conditions</a> outlined above.</p>
-<p>Please fill in the <a href="https://forms.gle/iL3A93EhrrRTHBib7">Google form</a> to request an appointment for a consultation.</p>
+<p>Please fill in the Google Forms below:</p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Title</th>
+<th>Description</th>
+<th>Link</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Consultation Request – Initial Visit</td>
+<td>Complete this form to request an initial consultation for a new project.</td>
+<td><a href="https://forms.gle/iL3A93EhrrRTHBib7">Click to fill in</a></td>
+</tr>
+<tr class="even">
+<td>Consultation Request – Follow-Up Visit</td>
+<td>Complete this form to request a follow-up consultation for an existing project.</td>
+<td><a href="https://forms.gle/u61h4eKnrBuZHUQJA">Click to fill in</a></td>
+</tr>
+</tbody>
+</table>
 
 
 </section>
@@ -288,8 +309,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -400,7 +419,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
