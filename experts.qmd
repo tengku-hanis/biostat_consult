@@ -16,8 +16,6 @@ Below is the list of our experts:
 | Assoc Prof Dr Intan Suhana Munira binti Mat Azmi<br> ismunira\@unisza.edu.my      | -   Community Dentistry        |
 |                                                                                   | -   Public Health              |
 +-----------------------------------------------------------------------------------+--------------------------------+
-| Assoc Prof Dr Yuzana Binti Mohd Yusop<br>yuzanayusop\@unisza.edu.my               |                                |
-+-----------------------------------------------------------------------------------+--------------------------------+
 | Dr Nik Nor Ronaidi Bin Nik Mahdi<br> ronaidimahdi\@unisza.edu.my                  | -   Occupational Health        |
 |                                                                                   | -   Environmental Health       |
 |                                                                                   | -   Intermediate Biostatistics |
@@ -26,7 +24,9 @@ Below is the list of our experts:
 |                                                                                   | -   Health Economics           |
 |                                                                                   | -   Elderly Health             |
 +-----------------------------------------------------------------------------------+--------------------------------+
-| Dr Mazlan Bin Haji Abdullah<br>mazlanabdullah\@unisza.edu.my                      |                                |
+| Dr Mazlan Bin Haji Abdullah<br>mazlanabdullah\@unisza.edu.my                      | -   Occupational Health        |
+|                                                                                   |                                |
+|                                                                                   | -   Health Economics           |
 +-----------------------------------------------------------------------------------+--------------------------------+
 | Dr Myat Moe Thwe Aung<br>myatmoe\@unisza.edu.my                                   |                                |
 +-----------------------------------------------------------------------------------+--------------------------------+
