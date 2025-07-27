@@ -13,7 +13,7 @@ We provide general advice on research methodology and medical/biostatistics. At 
 -   Each consultation session is limited to a maximum of 45 minutes.
 -   If you require more than two sessions for the same project, you are encouraged to invite the consultant to join your research team as a co-researcher (subject to the agreement of the consultant and other team members).
 -   The assignment of a consultant is based on their area of expertise and availability at the time of the request.
--   Please note that direct personal contact with the consultant outside the Research Clinic system is not permitted.
+-   Please note that direct personal contact with the consultant outside the Research Clinic system is not encouraged.
 
 ### Blacklisting Policy
 
@@ -53,6 +53,6 @@ By booking our service, you acknowledge and agree to the [Terms and Conditions] 
 Please fill in the Google Forms below:
 
 | Title | Description | Link |
-|----|----|----|
+|------------------------|------------------------|------------------------|
 | Consultation Request – Initial Visit | Complete this form to request an initial consultation for a new project. | [Click to fill in](https://forms.gle/iL3A93EhrrRTHBib7) |
-| Consultation Request – Follow-Up Visit | Complete this form to request a follow-up consultation for an existing project. | [Click to fill in](https://forms.gle/u61h4eKnrBuZHUQJA) |
+| Consultation Request – Follow-Up Visit | Complete this form to request a follow-up consultation for an existing project or for the direct consultation agreement. | [Click to fill in](https://forms.gle/u61h4eKnrBuZHUQJA) |
