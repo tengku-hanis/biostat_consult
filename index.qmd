@@ -11,27 +11,38 @@ The Department of Community Medicine, [Universiti Sultan Zainal Abidin (UniSZA)]
 We provide general advice on research methodology and medical/biostatistics. At present, this consultation service is available only to students and faculty members of the Faculty of Medicine, UniSZA.
 
 -   Each consultation session is limited to a maximum of 45 minutes.
--   If you require more than two sessions for the same project, you are encouraged to invite the consultant to join your research team as a co-researcher (subject to the agreement of the consultant and other team members).
+-   If the consultee require more than two sessions for the same project, the consultee is encouraged to invite the consultant to join your research team as a co-researcher (subject to the agreement of the consultant and other team members).
 -   The assignment of a consultant is based on their area of expertise and availability at the time of the request.
 -   Please note that direct personal contact with the consultant outside the Research Clinic system is not encouraged.
+-   The consultant will not perform data analysis on behalf of the consultee, the session is strictly for consultation purposes.
 
 ### Blacklisting Policy
 
--   You may be blacklisted from using the system for **three months** under the following circumstances:
+-   The consultee may be blacklisted from using the system for **three months** under the following circumstances:
     -   Failure to attend a scheduled appointment without prior notice.
     -   Cancellation of more than two appointments without valid reasons.
 -   Blacklisted users will be blocked from submitting new consultation requests via the Google Form during the suspension period.
 
-To request a consultation, please fill in the Google Form. Our consultant will contact you personally to confirm the appointment date.
+To request a consultation, please fill in the Google Form. The consultant will contact you personally to confirm the appointment date.
 
 ## Requirements for Booking a Consultation
 
 To book a consultation session, you must have a brief research proposal that includes:
 
--   Title
--   Objective
--   Study background
--   Proposed methods (optional)
+-   Title – the title of the research project
+-   Objectives – the general and specific objectives of the research
+-   Study Background – including:
+    -   Background of the study
+    -   Statement of the research problem
+    -   Rationale for the study
+-   Proposed Methods (optional) – covering:
+    -   Target population and sampling strategy
+    -   Data collection methods
+    -   Study flowchart
+    -   Proposed data analysis for each specific objective
+    -   Software and research tools to be used
+
+The research proposal must be in PDF format and limited to a maximum of five pages
 
 ## Mode of Consultation
 
